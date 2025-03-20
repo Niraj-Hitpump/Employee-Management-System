@@ -111,6 +111,8 @@ This project is licensed under the MIT License.
 
 ![Home Page](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/one.png)
 
+![Home Page](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/two.png)
+
 
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
