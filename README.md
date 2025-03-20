@@ -109,9 +109,21 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-![Home Page](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/one.png)
+![Dashboard](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/one.png)
 
 ![Home Page](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/two.png)
+
+![Messegs](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/three.png)
+
+![Create Account](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/four.png)
+
+![Employee Management](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/five.png)
+
+![Message Management](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/seven.png)
+
+![News Management](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/eight.png)
+
+![Add Employee Management](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/nine.png)
 
 
 - [Node.js](https://nodejs.org/)
