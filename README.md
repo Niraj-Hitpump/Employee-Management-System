@@ -109,20 +109,32 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
+#Dashboard
 ![Dashboard](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/one.png)
 
+#Home Page
 ![Home Page](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/two.png)
 
+#Messegs
 ![Messegs](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/three.png)
 
+#Create Account
 ![Create Account](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/four.png)
 
+
+#Employee Management
 ![Employee Management](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/five.png)
 
+
+#Message Management
 ![Message Management](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/seven.png)
 
+
+#News Management
 ![News Management](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/eight.png)
 
+
+#Add Employee Management
 ![Add Employee Management](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/nine.png)
 
 
