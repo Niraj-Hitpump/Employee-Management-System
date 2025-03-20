@@ -109,7 +109,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-![React](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/one.png)
+![Home Page](https://github.com/Niraj-Hitpump/Employee-Management-System/blob/main/images/one.png)
 
 
 - [Node.js](https://nodejs.org/)
