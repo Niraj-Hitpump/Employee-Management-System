@@ -54,13 +54,7 @@ cd ../frontend
 npm install
 ```
 
-4. Set up environment variables:
-   - Create a `.env` file in the backend directory with the following variables:
-   ```
-   PORT=5000
-   JWT_SECRET=your_jwt_secret_key
-   NODE_ENV=development
-   MONGODB_URI=mongodb+srv://pythoncourse053:qdq1mILORAr7J7zX@cluster0.txfgp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
    ```
 
 ### Running the Application
@@ -80,10 +74,6 @@ npm start
 3. Open your browser and navigate to `http://localhost:3000`
 
 ## Demo Credentials
-
-### Admin User
-- Email: admin@example.com
-- Password: admin123
 
 ### Regular User
 - Create a new account using the signup page
